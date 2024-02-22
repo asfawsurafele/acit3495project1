@@ -1,17 +1,11 @@
 # acit3495project1
 ACIT3495 Project 1, Kazi, Markus, Surafele, Ramith
-Running the System:
-Clone the repository to your local machine:
-
-
+### Running the System:
+- Clone the repository to your local machine.
 ```git clone <repository_url>```
-Navigate to the root of the cloned repository:
-
-
+- Navigate to the root of the cloned repository:
 ```cd <repository_name>```
-Start the system using Docker Compose:
-
-
+- Start the system using Docker Compose:
 ```docker-compose up -d```
 Wait for the containers to start and the system to be ready for use.
 
