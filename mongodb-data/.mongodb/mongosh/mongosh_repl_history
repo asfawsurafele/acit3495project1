@@ -1,0 +1,16 @@
+mongosh --username user --password password --authenticationDatabase analyticsDb
+db.getUsers();
+use analyticsDb
+db.getUsers();
+db.analyticsResults.find()
+use analyticsDb
+show help
+show db;
+show collections
+use analyticsDb
+show collections
+show collections;
+use analyticsDb
+show collections;
+show collections
+select
