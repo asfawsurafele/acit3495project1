@@ -1,5 +1,5 @@
-# acit3495project1
-ACIT3495 Project 1, Kazi, Markus, Surafele, Ramith
+# ACIT3495 - Project 1
+By: Kazi, Markus, Surafele, Ramith
 ### Running the System:
 - Clone the repository to your local machine.
 ```git clone <repository_url>```
